@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-     "dev": "next", 
-    "build": "next build", 
-    "start": "next start" 
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/Aleks339/react-repo/issues"
   },
-  "homepage": "https://github.com/Aleks339/react-repo#readme"
+  "homepage": "https://github.com/Aleks339/react-repo#readme",
+  "dependencies": {
+    "next": "^4.2.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
 }
